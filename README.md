@@ -4,6 +4,6 @@
 
                     Recenzentas: lekt. dr. Rolandas Girčys
 
-                    Užsakovas: <b> UAB "BK Grupė"
+                    Užsakovas: UAB "BK Grupė"
 
-                    Vytautas Šilkaitis IFC-7<br> Kaunas, 2021 ©
+                    Vytautas Šilkaitis IFC-7 Kaunas, 2021 ©
